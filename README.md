@@ -2,7 +2,7 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1Y2tyTDp60n5UmwtROgdrI_OaR5i49iPk" alt="Miru" width="180" />
 
-# Your anime. Your way.
+# MIRU ANIME
 
 **A beautiful anime streaming app for Android with offline downloads, custom themes, and smart tracking.**
 
